@@ -1,0 +1,8 @@
+name: ArenaPlugin
+author: EpicPlayer
+version: 1.0
+api-version: 1.14
+main: com.ArenaPlugin.ArenaPlugin
+commands:
+  arenastart:
+    permission: command.permission
