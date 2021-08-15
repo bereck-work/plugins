@@ -1,0 +1,7 @@
+name: PracticePlugin
+author: EpicPlayer
+version: 1.0
+api-version: 1.14
+main: PracticePlugin.PracticePlugin
+commands:
+  opplayer:
